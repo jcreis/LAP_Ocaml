@@ -1,8 +1,8 @@
 ﻿(* Geocaching module body *)
 
 (* 
-Aluno 1: 43914 Joao Reis
-Aluno 2: 42997 Francisco Cardoso
+Aluno 1: #####
+Aluno 2: #####
 
 Comentario:
 
